@@ -41,12 +41,9 @@ import {
   ];
   
   const services = [
+   
     {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
+      title: "MERN Stack Developer",
       icon: mobile,
     },
     {
@@ -54,7 +51,11 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "System Analysis & Design",
+      icon: web,
+    },
+    {
+      title: "Graphic Designer",
       icon: creator,
     },
   ];
@@ -115,20 +116,10 @@ import {
   ];
   
   const experiences = [
+    
     {
-      title: "Front End Web Development",
-      company_name: "Gujarat University",
-      icon: starbucks,
-      iconBg: "#383E56",
-      points: [
-        "Developing and maintaining Front End Web Applications using Html, css, javascript and other related technologies.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code competition and making self projects to improve skills."
-      ],
-    },
-    {
-      title: "React Native Development",
-      company_name: "Coursera",
+      title: "MERN Stack Development",
+      company_name: "InfoLabz",
       icon: tesla,
       iconBg: "#E6DEDD",
       points: [
@@ -138,7 +129,7 @@ import {
       ],
     },
     {
-      title: "Back End development",
+      title: "Back End Development",
       company_name: "Udemy",
       icon: shopify,
       iconBg: "#383E56",
@@ -150,6 +141,17 @@ import {
       ],
     },
     {
+      title: "Sytem Analysis & Design",
+      company_name: "Gujarat University",
+      icon: starbucks,
+      iconBg: "#383E56",
+      points: [
+        "Developing and maintaining System using C#, .NET and other related technologies.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code competition and making self projects to improve skills."
+      ],
+    },
+    {
       title: "Video Editing",
       company_name: "Coursera",
       icon: meta,
@@ -157,8 +159,8 @@ import {
       date: "Jan 2023 - Present",
       points: [
         "Creating and editing of client wished videos by Adobe premiere pro and other related technologies.",
-        "Implementing high quality video and ensuring client and audience satisfaction.",
-        "Watching more tutorials and making self projects to improve skills."
+        "Implementing high quality video with ensuring client and audience satisfaction.",
+        "Watching more tutorials and doing self practise to improve skills."
       ],
     },
   ];
